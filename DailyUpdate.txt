@@ -1,0 +1,17 @@
+(01) Initialization of repository : 24th September 2024
+(02) Youtube Tutorial Link : https://www.youtube.com/watch?v=4XTsAAHW_Tc&t=1s
+
+-28th September 2024
+(01) Regen - Trying to understand things and really being serious about things
+ Youtube Tutorial Link : https://www.youtube.com/watch?v=Jl9OKQ92SJU
+
+ https://youtu.be/vwj89i2FmG0?t=1079
+
+ (02)
+
+git config --list
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+git config user.name 
+git config --global --edit
+
