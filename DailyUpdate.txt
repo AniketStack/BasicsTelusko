@@ -6,12 +6,13 @@
  Youtube Tutorial Link : https://www.youtube.com/watch?v=Jl9OKQ92SJU
 
  https://youtu.be/vwj89i2FmG0?t=1079
-
- (02)
+===============================================================================
+(02)
 
 git config --list
 git config --global user.name "Your Name"
 git config --global user.email "youremail@example.com"
 git config user.name 
 git config --global --edit
-
+===============================================================================
+===============================================================================
